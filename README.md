@@ -1,16 +1,183 @@
-# React + Vite
+# 🍎 GSAP MacBook Air / Pro Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+An Apple-style animated **MacBook Air / Pro landing page** built using **React.js, GSAP, and Three.js**.
+This project focuses on smooth scroll animations, cinematic product reveal, and 3D product viewer interaction.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# 🚀 Features
 
-## React Compiler
+✨ Apple-style landing UI
+✨ GSAP scroll animations
+✨ 3D MacBook product viewer (Three.js)
+✨ Smooth section transitions
+✨ Interactive showcase section
+✨ Modern React component architecture
+✨ Responsive layout
+✨ Performance optimized animations
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+# 🧠 What I Learned
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* GSAP ScrollTrigger animations
+* React + GSAP integration
+* Three.js product viewer
+* Component based architecture
+* Animation sequencing
+* Landing page UI design
+* Smooth scroll UX
+
+---
+
+# 🛠️ Tech Stack
+
+* React.js
+* GSAP
+* Three.js
+* JavaScript (ES6)
+* CSS3
+* Vite
+
+---
+
+# 📁 Project Structure
+
+```
+GSAP-Macbook-Air-Pro-Landing-Page
+│
+├── public/
+│
+├── src/
+│   │
+│   ├── components/
+│   │   ├── models/
+│   │   ├── three/
+│   │   ├── Hero.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── ProductViewer.jsx
+│   │   └── Showcase.jsx
+│   │
+│   ├── constants/
+│   ├── store/
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── .gitignore
+├── index.html
+├── package.json
+└── README.md
+```
+
+---
+
+# ⚛️ React Component Architecture
+
+```
+App
+ ├── Navbar
+ ├── Hero
+ ├── Showcase
+ └── ProductViewer
+      ├── Three Scene
+      ├── Models
+      └── Camera Controls
+```
+
+---
+
+# 🎬 GSAP Animations
+
+### Hero Section
+
+* Text reveal animation
+* Fade in transitions
+* Smooth entry animation
+
+### Showcase Section
+
+* Scroll based animation
+* Stagger text animation
+* Product highlight transitions
+
+### Product Viewer
+
+* 3D MacBook rotation
+* Scroll controlled animation
+* Camera movement animation
+
+---
+
+# 📦 Installation
+
+Clone repository
+
+```
+git clone https://github.com/SubhashPaingoriya-dev/GSAP-Macbook-Air-Pro-Landing-Page
+```
+
+Go to project
+
+```
+cd GSAP-Macbook-Air-Pro-Landing-Page
+```
+
+Install dependencies
+
+```
+npm install
+```
+
+Run project
+
+```
+npm run dev
+```
+
+---
+
+# 📚 Dependencies
+
+```
+npm install gsap
+npm install three
+npm install @react-three/fiber
+npm install @react-three/drei
+```
+
+---
+
+# 🎯 Project Purpose
+
+This project was built to:
+
+* Learn GSAP practically
+* Build Apple style landing page
+* Practice Three.js product viewer
+* Improve frontend animation skills
+* Create portfolio level project
+
+---
+
+# 🔥 Future Improvements
+
+* Add mobile optimized animations
+* Add loading animation
+* Add dark mode
+* Improve performance
+* Add smooth scroll library
+
+---
+
+# 👨‍💻 Author
+
+**Subhash Paingoriya**
+GitHub: https://github.com/SubhashPaingoriya-dev
+
+---
+
+# ⭐ Support
+
+If you like this project, give it a star ⭐
