@@ -5,6 +5,12 @@ This project focuses on smooth scroll animations, cinematic product reveal, and 
 
 ---
 
+# 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-green?style=for-the-badge)](https://gsap-macbook-air-pro-landing-page-qozo1v3h9.vercel.app/)
+
+---
+
 # 🚀 Features
 
 ✨ Apple-style landing UI
