@@ -92,11 +92,11 @@ App
 
 | Hero | Showcase |
 |------|----------|
-| ![](./src/assets/screenshots/hero.png) | ![](./src/assets/screenshots/showcase.png) |
+| ![Hero](Macbook_Pro/src/assets/screenshots/hero.png) | ![Showcase](Macbook_Pro/src/assets/screenshots/showcase.png) |
 
 | Product Viewer |
 |----------------|
-| ![](./src/assets/screenshots/viewer.png) |
+| ![Viewer](Macbook_Pro/src/assets/screenshots/viewer.png) |
 
 # 🎬 GSAP Animations
 
