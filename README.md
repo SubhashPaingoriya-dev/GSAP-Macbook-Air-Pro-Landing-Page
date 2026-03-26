@@ -88,6 +88,16 @@ App
 
 ---
 
+# 📸 Screenshots
+
+| Hero | Showcase |
+|------|----------|
+| ![](./src/assets/screenshots/hero.png) | ![](./src/assets/screenshots/showcase.png) |
+
+| Product Viewer |
+|----------------|
+| ![](./src/assets/screenshots/viewer.png) |
+
 # 🎬 GSAP Animations
 
 ### Hero Section
